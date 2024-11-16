@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+## Name : Keerthana P
+## Register number : 212223240069
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
